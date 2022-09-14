@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "787119573708",
+    "project_id": "gymtastic-70bee",
+    "storage_bucket": "gymtastic-70bee.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:787119573708:android:99636ae983233982861069",
+        "android_client_info": {
+          "package_name": "com.example.gymtastic"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "787119573708-d8fucikv65dkocneea1e1s9phi64rlih.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBq6hKgE7kzpse_bJiaMWE4jtO113gOi0Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "787119573708-d8fucikv65dkocneea1e1s9phi64rlih.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
